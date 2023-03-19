@@ -1,0 +1,176 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "newMap1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1.5
+        },
+        "11.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Atlas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/ACER/OneDrive/Máy tính/tmxlite-master/tmxlite-master/ParseTest/maps/mappppp.tmx": {
+            "scale": 0.858154296875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 515.0588904694167,
+                "y": 458.5422475106686
+            }
+        },
+        "C:/Users/ACER/OneDrive/Máy tính/tmxlite-master/tmxlite-master/ParseTest/maps/tileeee.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/ACER/OneDrive/Máy tính/tmxlite-master/tmxlite-master/ParseTest/maps/tilesettest.tmx": {
+            "scale": 4.881944444444445,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 89.92318634423896,
+                "y": 24.068278805120904
+            }
+        },
+        "C:/Users/ACER/OneDrive/Máy tính/tmxlite-master/tmxlite-master/ParseTest/maps/tilesettest.tmx#collection set": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ACER/OneDrive/Máy tính/tmxlite-master/tmxlite-master/ParseTest/maps/tilesettest.tmx#single set": {
+            "scaleInDock": 1
+        },
+        "Platformer Tileset Pixel Art.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Tile_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TilesNonSliced.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Trees and Rocks, Nauris Amatnieks.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.75
+        },
+        "[OC] 32x32 Trees Practice.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "[OC] Fantasy Platformer Props.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aaa.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets_version1.1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "atlas ob.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "atlas-props.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 539.3333333333333,
+                "y": 288.66666666666663
+            }
+        },
+        "newMap1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 730.6666666666665,
+                "y": 452.6666666666667
+            }
+        },
+        "newMap1.tmx#atlas ob": {
+            "scaleInEditor": 1
+        },
+        "newMap1.tmx#ob1": {
+            "scaleInDock": 1
+        },
+        "ob.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ob1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "tile.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.8916145833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 492.36520824814534,
+                "y": 320.2056194871196
+            }
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/ACER/source/repos/BaiTapLon-GameUntitile/BaiTapLon-GameUntitile/Map/mapMaterial",
+    "last.imagePath": "C:/Users/ACER/OneDrive/Máy tính",
+    "map.height": 19,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 64,
+    "openFiles": [
+        "newMap1.tmx",
+        "11.tsx",
+        "[OC] Fantasy Platformer Props.tsx"
+    ],
+    "project": "map.tiled-project",
+    "property.type": "file",
+    "recentFiles": [
+        "[OC] Fantasy Platformer Props.tsx",
+        "11.tsx",
+        "newMap1.tmx",
+        "Trees and Rocks, Nauris Amatnieks.tsx",
+        "aaa.tsx",
+        "[OC] 32x32 Trees Practice.tsx",
+        "ob.tsx",
+        "Platformer Tileset Pixel Art.tsx",
+        "ob1.tsx",
+        "atlas-props.tsx",
+        "assets_version1.1.tsx",
+        "Tile_01.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
